@@ -1,4 +1,4 @@
-# Email Writer — Claude Code Skill
+# 🐬 Email Writer — Claude Code Skill
 
 **Write emails that sell.** Not "pretty good" emails. Emails that book meetings, recover carts, and turn cold lists into pipeline.
 
@@ -6,7 +6,7 @@ This skill turns Claude into an email marketing expert backed by 908 sources, 4,
 
 ---
 
-## From Strategy Sprints
+## 🐆 From Strategy Sprints
 
 We help B2B founders double revenue in 90 days.
 
@@ -83,7 +83,7 @@ Built on the combined knowledge of Chad S. White, Joanna Wiebe, Chase Dimond, Na
 
 ## Knowledge Base
 
-The skill file (`SKILL.md`) contains the full compressed knowledge base — 16 chapters covering fundamentals through AI integration, with data-backed benchmarks and actionable frameworks. Based on the [Email Marketing Bible](https://emailmarketingskill.com) by George Hartley.
+The skill file (`SKILL.md`) contains the full compressed knowledge base — 16 chapters covering fundamentals through AI integration, with data-backed benchmarks and actionable frameworks.
 
 ## License
 
