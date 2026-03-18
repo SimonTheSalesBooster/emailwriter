@@ -19,7 +19,7 @@ Not with more tools. Not with more content. With a **sprint** — a focused 90-d
 
 200+ founders have used Strategy Sprints to add $1M+ in annual revenue. Most see results in the first 30 days.
 
-**Want to sprint?** [Book a Strategy Call](https://strategysprints.com) | [Watch The Sales Show](https://youtube.com/@salesshow)
+**Want to sprint?** [Book a Strategy Call](https://www.strategysprints.com) | [Watch The Sales Show](https://youtube.com/@salesshow)
 
 ---
 
